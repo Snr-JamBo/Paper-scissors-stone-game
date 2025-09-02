@@ -34,14 +34,17 @@
 
 ## 🖼 Скриншоты
 
-### Главное меню
-![Main Menu](screenshots/main_menu.png)
+### Greetings
+![Greetings](Screenshots/Greeting.png)
 
-### Two Hands режим
-![Two Hands](screenshots/two_hands.png)
+### Round 
+![Round](Screenshots/Round.png)
 
-### Достижения
-![Achievements](screenshots/achievements.png)
+### Achievements
+![Achievements](Screenshots/Achievements.png)
+
+### Game Over
+![Game_Over](Screenshots/Game_over.png)
 
 ---
 
