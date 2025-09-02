@@ -35,16 +35,16 @@
 ## 🖼 Скриншоты
 
 ### Greetings
-![Greetings](Screenshots/Greeting.png)
+![Greetings](./Screenshots/Greeting.png)
 
 ### Round 
-![Round](Screenshots/Round.png)
+![Round](./Screenshots/Round.png)
 
 ### Achievements
-![Achievements](Screenshots/Achievements.png)
+![Achievements](./Screenshots/Achievements.png)
 
 ### Game Over
-![Game_Over](Screenshots/Game_over.png)
+![Game_Over](./Screenshots/Game_over.png)
 
 ---
 
